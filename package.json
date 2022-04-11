@@ -1,7 +1,6 @@
 {
   "name": "ejercicio-1",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -19,6 +18,8 @@
   },
   "homepage": "https://github.com/TomasSkylab/2022-04-W2EX1-tomas-sanchez#readme",
   "devDependencies": {
-    "husky": "^7.0.0"
-  }
+    "husky": "^7.0.0",
+    "sass": "^1.50.0"
+  },
+  "description": ""
 }
